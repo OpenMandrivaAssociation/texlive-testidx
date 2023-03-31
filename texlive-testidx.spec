@@ -1,6 +1,6 @@
 Name:		texlive-testidx
 Version:	60966
-Release:	1
+Release:	2
 Summary:	Dummy text for testing index styles and indexing applications
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/testidx
